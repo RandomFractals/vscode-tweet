@@ -1,4 +1,5 @@
-# vscode-tweet
+# vscode-tweet-stream
+
 vscode ext. for tweeting vscode screen pics and code bits with project hashtag for the whole dev crew to share
 
 see my [#DataPreview tag on Twitter](https://twitter.com/hashtag/datapreview?f=tweets&vertical=default&src=hash) for a brief idea/example of what this simple tool should do.
